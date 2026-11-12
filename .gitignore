@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.db
+*.db.key
+*.sqlite*
+data/
+data_large/
+data_seed7/
+reports*/
+au*.db*
+final_state.csv
+.pytest_cache/
